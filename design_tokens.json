@@ -1,0 +1,40 @@
+﻿{
+  "colors": {
+    "primary": "#3E2723",
+    "secondary": "#F5F0E6",
+    "accent": "#C89B3C",
+    "success": "#2E7D32",
+    "danger": "#C62828",
+    "text": "#1A1A1A",
+    "muted": "#6B6B6B"
+  },
+  "font": {
+    "family": "Cairo",
+    "weights": [400, 500, 600, 700],
+    "source": "https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700&display=swap"
+  },
+  "icons": {
+    "library": "Material Icons (@mui/icons-material)",
+    "source": "https://fonts.googleapis.com/icon?family=Material+Icons"
+  },
+  "layout": {
+    "phoneFrame": {
+      "width": 390,
+      "height": 844
+    },
+    "direction": "rtl"
+  },
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "12px",
+    "lg": "16px",
+    "xl": "24px"
+  },
+  "borderRadius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "16px",
+    "full": "9999px"
+  }
+}
